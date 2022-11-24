@@ -9,3 +9,6 @@
 
 ## Weather Screenshot 3 (After Searching)
 ![Alt text](./Screenshots/weather_screenshot_3_after_search.PNG?raw=true "WeatherScreenshot 3 (After Searching)")
+
+## Weather Screenshot 4 Another Example
+![Alt text](./Screenshots/weather_screenshot_4_another_example.PNG?raw=true "WeatherScreenshot 4 Additional Example")
