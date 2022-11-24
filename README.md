@@ -4,4 +4,4 @@
 
 ![Alt text](./Screenshots/weather_screenshot_2.PNG?raw=true "WeatherScreenshot 2 (Searching Location)")
 
-![Alt text](./Screenshots/weather_screenshot_3_after_search.PNG.PNG?raw=true "WeatherScreenshot 3 (After Searching)")
+![Alt text](./Screenshots/weather_screenshot_3_after_search.PNG?raw=true "WeatherScreenshot 3 (After Searching)")
